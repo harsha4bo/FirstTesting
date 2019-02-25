@@ -19,7 +19,7 @@ namespace Travis
 
         private void button1_Click(object sender, EventArgs e)
         {
-            label1.Text = "Welcome";
+            label1.Text = "Welcome_User";
         }
     }
 }
